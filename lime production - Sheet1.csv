@@ -1,0 +1,54 @@
+ID,name,country code,country_region,location,address,latitude,longitude,web
+1,Belaruskaliy,BY,Belarus. Minsk region,Zelenyi Mokh,RQ49+Q2. Zelenyi Mokh. Belarus,52.8069643,27.7472963,http://kali.by/
+2,Belaruskaliy,BY,Belarus. Gomel region,Slobodskii,5FMX+V3. Slobodskii,52.1928532,28.487148,http://kali.by/
+3,Ognyanovo,BG,Bulgaria. Sofia province,Puklina,V27C+9P. Slivnitsa,42.8602383,23.0154359,http://ognyanovo-k.com
+4,Ognyanovo,BG,Bulgaria. Sofia province,Ognyanovo,Ognyanovo,41.6206019,23.7932323,http://ognyanovo-k.com
+5,intercal,HR,Croatia. Bjelovar-Bilogora zupanija,Sirač,Ruđera Boškovića 52,45.5406165,17.2940693,https://www.intercal.hr
+6,intercal,HR,Croatia. Lika-Senj zupanija,Otočac,Ličko Lešće 3,44.7754953,15.3620114,https://www.intercal.hr
+7,Carmeuse S.A.,BE,Belgium. Namur province,Andenne,Rue du Château 13,50.4972674,5.0769286,https://www.carmeuse.com
+8,Carrières et Fours à chaux Dumont Wautier S.A.,BE,Belgium. Walloon Brabant province,Mont-Saint-Guibert,Rue Granbonpré 11,50.6608766,4.6420787,https://www.portdeliege.be
+9,Lhoist Industrie SA,BE,Belgium. Namur province,Marche-en-Famenne,Usine de On,50.1663363,5.2547234,https://www.lhoist-rochefort.be
+10,Lhoist Industrie SA,BE,Belgium. Liege province,Saint-Georges-sur-Meuse,La Mallieue 95,50.5674565,5.3625014,https://www.lhoist.com
+11,Kalksteinbruch Karbach der Mineral Abbau GmbH,AT,Austria. Upper Austria,Karbach,Kalksteinbruch Karbach Rindbachstrasse 17,47.8093763,13.7824455,https://www.mineral.eu/karbach
+12,Calmit GmbH,AT,Austria. Saltsburg,Bad Ischl,Linzer Straße 8,47.7262273,13.6522186,https://www.baumit.com
+13,WKO,AT,Austria. Styria,Köflach,Judenburgerstraße 230,47.0880432,15.0669498,https://schwarzl-gruppe.at
+14,Krkonošské vápenky Kunčice a.s.,CZ,Czechia. Hradec Králové Region,Kunčice nad Labem,Kunčice nad Labem 150,50.5697471,15.6444496,https://www.kvk.cz/
+15,Vápenka Čertovy schody a.s.,CZ,Czechia. Central Bohemian Region,Tmaň,267 21 Tmaň,49.9096748,14.0553516,http://www.lhoist.com/cs_cs
+16,Vápenka Vitošov Ltd. ,CZ,Czechia. Olomouc Region,Hrabová,Hrabová 54,49.6239511,17.2748614,https://www.vitosov.cz/
+17,VÁPENKA VITOUL s.r.o.,CZ,Czechia. Olomouc Region,Mladeč,Mladeč 132,49.7037921,17.0030481,http://www.vitoul.cz
+18,Kotouč Štramberk - LB Cemix s.r.o.,CZ,Czechia. Moravian-Silesian Region,Štramberk,Štramberk 500,49.5783893,18.1089271,http://www.kotouc.cz/
+19,HASIT Šumavské vápenice a omítkárny s.r.o,CZ,Czechia. Plzeň Region,Velké Hydčice,Velké Hydčice 91,49.2966436,13.6592472,https://www.hasit.cz/
+20,Carmeuse Czech Republic S.r.o.,CZ,Czechia. Pardubice Region,Prachovice,Tovární 288,49.1745014,15.5759821,https://www.carmeuse.com/cz-cz
+21,Faxe Kalk a/S,DK,Denmark. Zealand,Faxe,Hovedgaden 13,55.2167254,12.1639574,https://www.lhoist.com/
+22,Nordkalk AS,EE,Estonia. Lääne-Virumaa,Rakke,Fr. R. Faehlmanni tee 11a,58.986488,26.245195,https://www.nordkalk.com
+23,Nordkalk AS,EE,Estonia. Harjumaa,Vasalemma,Lemmaru küla. Lääne-Harju,59.227917,24.300806,https://www.nordkalk.com
+24,Nordkalk AS,EE,Estonia. Pärnumaa,Kurevere,Esivere küla. Lääneranna vald,58.628917,23.544833,https://www.nordkalk.com
+25,Nordkalk Sp. z o.o.,PL,Poland. Świętokrzyskie Voivodeship,Piekoszów,26-065 Piekoszów,50.8529174,20.378473,http://www.nordkalk.pl
+26,Nordkalk Sp. z o.o.,PL,Poland. West Pomeranian Voivodeship, Szczecin,Gdańska 20n,53.4000841,14.6001996,http://www.nordkalk.pl
+27,Nordkalk Sp. z o.o.,PL,Poland. Lodz Voivodeship,Sławno,94FP+Q9 Slawno. Poland,51.6668518,20.0036123,http://www.nordkalk.pl
+28,Nordkalk Sp. z o.o.,PL,Poland. Świętokrzyskie Voivodeship,Wolica,Kolejowa 1,50.750157,20.476847,http://www.nordkalk.pl
+29,Nordeka Maden A.Ş.,TR,Turkey. Çanakkale Province,Eskibalıklı,Eskibalıklı köyü No:147,40.2794799,27.108836,www.nordeka.com.tr
+30,Nordkalk AB,SE,Sweden. Västra Götaland,Falköping,Uddagårds Kalk 1,58.1849129,13.6285088,http://www.nordkalk.se/
+31,Nordkalk AB,SE,Sweden. Lapland,Luleå,Viktoriavägen 5,65.5516357,22.2378146,http://www.nordkalk.se/
+32,Nordkalk AB,SE,Sweden. Västmanland,Köping,Kungsängsvägen 22,59.1301901,13.3661687,http://www.nordkalk.se/
+33,Nordkalk AB,SE,Sweden. Scania,Hässleholm,Ignaberga 7067,56.1198634,13.8692163,http://www.nordkalk.se/
+34,ΤΣΑΡΟΥΧΑ Θ ΥΙΟΙ ΟΕ,GR,Greece Thessaly,Petroto,Petroto Trikalon,39.5792961,21.943797,http://www.tsarouxas.gr/
+35,Nordkalk Oy Ab,FI,Finland Central Ostrobothnia,Kokkola,Kemirantie 1. POB 555,63.8494074,23.0387125,http://www.nordkalk.fi/
+36,Nordkalk Oy Ab,FI,Finland South Karelia,Lappeenranta,Sementtitie 29,61.0251183,28.1689918,http://www.nordkalk.fi/
+37,Nordkalk Oy Ab,FI,Finland South Savonia,Savonlinna,Kalkkitehtaantie 140,61.9382947,29.0279802,http://www.nordkalk.fi/
+38,Ukrspetsizvest,UA,Ukraine Dnipropetrovsk region,Hubynykha,Berehovoho St 46,48.8034632,35.2748958,https://usiz.com.ua/
+39,Ukrspetsizvest,UA,Ukraine Kharkiv region,Kupiansk,Frunze str 3,49.7201064,37.6255771,https://usiz.com.ua/
+40,Zakupnyanskyi Karier PE,UA,Ukraine Khmelnytskyi region,Zakupne,Kar`erna 1,49.1180683,26.3330225,https://zakupnyanskykaryer.com.ua/
+41,Ternopliskyi karier PrAT,UA,Ukraine Ternopil region,Maksymivka,Stara Maksymivka str 29,49.6000156,25.8984275,https://karyer.in.u
+42,Galvapno,UA,Ukraine Ivano Frankivsk region,Halych,Vul. Dmytra Vitovsʹkoho 32,49.1346607,24.7325414,galvapno.com.ua
+43,Novotroitske Rudouptavlinnya PrAT,UA,Ukraine Donetsk region,Novotroitske,Kyivska str 85,47.7246245,37.5673467,https://www.ntru.com.ua/
+44,CARMEUSE SLOVAKIA s.r.o.,SK,Slovakia Kosice Region,Trebejov,Trebejov 53,48.8326204,21.1578084,https://www.carmeuse.com/sk-sk
+45,CARMEUSE SLOVAKIA s.r.o.,SK,Slovakia Kosice Region,Kosice,Vstupný areál U.S.Steel,48.6046168,21.1304614,https://www.carmeuse.com/sk-sk
+46,CARMEUSE SLOVAKIA s.r.o.,SK,Slovakia Kosice Region,Slavec,Slavec,48.5799777,20.3899993,https://www.carmeuse.com/sk-sk
+47,WKG Sp. z o.o.,PL,Poland. Lodz Voivodeship,Raciszyn,Działoszyńska 69,51.0979756,18.8519453,https://www.wkg.pl/
+48,Trzuskawica S.A.,PL,Poland. Świętokrzyskie Voivodeship,Sitkówka,Sitkówka 24,50.8052163,20.5588997,https://www.trzuskawica.pl/
+49,Omya Sp. z.o.o.,PL,Poland. Masovian Voivodeship,Kornica,Stara Kornica 206,52.1945871,22.9560503,https://www.omya.com
+50,Omya Sp. z.o.o.,PL,Poland. Lower Silesian Voivodeship,Oldrzychowice Klodzkie,Romanowo Plant ul. Bystrzycka 21,50.3470683,16.7377943,https://www.omya.com
+51,Werbe- u. Marketing GmbH Bayerische Düngekalk,DE,Germany. Bavaria,Wörth an der Donau,Im Gewerbepark A 8,48.9922603,12.1285861,http://www.bdg-wm.de/
+52,Schotterwerk Johannes MAYER,DE,Germany. Baden Wurtemberg,Mötzingen,Nagolder Str. 50,48.6944785,8.0176325,http://www.schotterwerk-mayer.de/
+53,Clogrennane Lime Ltd,IE,Ireland. Lenster,Fonthill. Clogrennane. Co. Carlow,Clogrennane,52.7938747,-6.9827537,http://www.clogrennane.ie/

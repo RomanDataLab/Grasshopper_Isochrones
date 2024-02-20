@@ -1,0 +1,28 @@
+ID,name,farm,processing,construction,hemp_area_ha,country code,country_region,location,address,latitude,longitude,web
+1,Hemp Solutions,TRUE,TRUE,FALSE,400,RS,Serbia. Central Serbia,Smederevo,Šalinačka bb,44.6690528,20.936137,https://hempsolutions.rs/
+2,Cannavega,TRUE,TRUE,FALSE,0,ES,Spain. Communidad de Madrid,Colmenar de Oreja,Colmenar de Oreja,40.1090538,-3.4070581,http://cannavegasl.com/
+3,Hempstate,TRUE,TRUE,FALSE,0,LT,Lithuania. Šiauliai County,Radviliškis,Radviliškis,55.8125308,23.5113134,hempstate.eu
+4,Hempbeo,TRUE,TRUE,FALSE,0,IE,Ireland. County Wexford,Enniscorthy,Enniscorthy,52.5080364,-6.5891838,hempbeo.com
+5,Hopsteiner,TRUE,TRUE,FALSE,5000,DE,Germany. Bavaria,Mainburg,Auhofstrasse 18,48.6319779,11.7779289,https://www.hopsteiner.com
+6,Hanfingenieur,FALSE,FALSE,TRUE,0,DE,Germany. Baden-Wurtemberg,Tübingen, Karlstraße 3 ,48.5182652,9.0561391,https://www.hanfingenieur.de/
+7,HempHouse,FALSE,FALSE,TRUE,0,UA,Ukraine. Kyiv,Kyiv,Industrialnyi Ln 23,50.4500038,30.4245178,https://hemphouse.com.ua/
+8,Agrėja,TRUE,TRUE,FALSE,800,LT,Lithuania. Marijampolė County,Marijampolė,Kvamo g. 9 Mokolų k,54.567331,23.3296571,https://agreja.lt/
+9,Zhyvaizol,TRUE,TRUE,FALSE,500,UA,Ukraine. Dnipropetrovsk region,Novomoskovsk,Heroiv Square 16,48.6342823,35.2527288,https://gyvaisol.com/
+10,Linen of Desna,TRUE,TRUE,FALSE,500,UA,Ukraine. Sumy region,Glukhiv,Zhuzhomy St 31,51.6646148,33.8821658,https://linenofdesna.com
+11,Lnozavod,TRUE,TRUE,FALSE,100,UA,Ukraine. Chernigiv region,Ivanivka,Molodizhna 3,52.1433203,32.6900448,https://lnozavod.com.ua/
+12, First Hemp Corporation LLC,TRUE,TRUE,FALSE,500,UA,Ukraine. Cherkassy region,Cherkassy,Shevchenko Blvd. 250,49.4312234,31.9790186,https://www.ukrainian-hemp.com
+13,Kombinat Konopny S.A.,TRUE,TRUE,FALSE,40,PL,Poland. Warmian-Masurian Voivodeship,Gronowo Górne,Berylowa 7F,54.1252908,19.4539748,https://kombinatkonopny.pl/
+14,ZweiZehn GmbH & Co. KG,TRUE,TRUE,FALSE,500,DE,Germany. Bavaria,Püchersreuth,Kotzenbach 2,49.7763923,12.1786393,https://www.zwei-zehn.com
+15,South Hemp Tecno s.r.l.,TRUE,TRUE,FALSE,0,IT,Italy. Apulia,Crispiano,SS172 – Uscita Crispiano-Montemesola,40.5768551,17.2870678,http://www.southemp.it/
+16,Konopobeton,FALSE,FALSE,TRUE,0,BG,Bulgary. Sofia,Sofia,ulitsa Teodor Teodorov 2,42.7338253,23.2919003,konopobeton.bg
+17,Konopko Cooperative,TRUE,TRUE,FALSE,100,SL,Slovenia. Savinja,Frankolovo,Lindek 22,46.3626115,15.3034854,https://www.konopko.si
+18,Hempbuild Sustainable Products Ltd,FALSE,FALSE,TRUE,0,IE,Ireland. Meath,Kelles,Co. Meath. A82 E1C6,53.739271,-6.908256,https://www.hempbuild.ie
+19,Moravian Hemp s.r.o.,TRUE,TRUE,FALSE,100,CZ,Czech Republic.Moravian-Silesian Region.,Ostrava,U Tiskarny 619/9,49.8494047,18.2701088,https://www.moravianhemp.cz
+20,Kender-Kötelék Kft.,TRUE,TRUE,FALSE,200,HU,Hungary. Csongrád-Csanád,Szeged,Hajnóczy 5,46.2534946,20.1429212,https://hemptoday.net/connect/kender-kotelek-kft/
+21,Hanffaser Uckermark eG,TRUE,TRUE,FALSE,100,DE,Germany. Brandenburg,Prenzlau,Brüssower Allee 88,53.3265395,13.8836509,https://www.hanffaser.de
+22,Ryczard,TRUE,TRUE,FALSE,50,PL,Poland. Lublin Voivodeship,Zamość,Zamość,50.7214031,23.1049872,511 799 533
+23,Hamppumaa,TRUE,TRUE,TRUE,250,FI,FInland. Keski-Suomi,Jyväskylä,Kalevankatu 8,61.9932053,22.9891077,https://hamppumaa.fi/
+24,House of Hemp,FALSE,FALSE,TRUE,0,SE,Sweden. Västra Götaland,Goteborg,Goteborg,57.7010496,11.613658,https://houseofhemp.se/
+25,HampByg,FALSE,FALSE,TRUE,0,DK,Denmark. Mid Jutland,Lystrup,Lægårdsvej 5B,56.2532325,9.8277607,https://www.hampbyg.dk/
+26,Hampa & Miljö i Sverige AB / Hem(p) Co. AB,TRUE,TRUE,FALSE,250,SE,Sweden. Stockholm,Dalarö,Postvägen 4,59.1139547,18.1554386,https://www.hampvaruhuset.se
+27,IsoHemp S.A.,FALSE,FALSE,TRUE,0,BE,Belguim. Namur province,Fernelmont,Rue Georges Cosse 1,50.538129,4.9674506,https://www.isohemp.com
