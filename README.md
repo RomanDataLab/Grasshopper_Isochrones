@@ -1,4 +1,4 @@
-# Grasshopper_Isochrones_for_HempcreteIndustry
+# Grasshopper_Isochrones_for_Hempcrete_Industry
 ## Data Vizualisation of isochrones by car drive time
 Grasshopper script to evaluate isochrones of coverage area of hempcrete construction companies and visualize on a dynamic map</br>
 tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson.
@@ -10,13 +10,13 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson.
 
 ## project concept
 Hempcrete is the one a few non-toxic natural-based materials with relatively small embedded CO2 emissions and huge CO2 sequestering ability. Construction application of hempcrete is quite simple and does not bound us with construcion facilities like in the case of cement, all we need are hemp hurds, binder and lime pouder that we can mix right on a construction site. 
-So, let's imagine that in order to mitigate CO2 logistic emissions for hempcrete we need to cover specific area with hemp and lime producing facilities. To analyze the current situation of the hempcrete industry we are going to apply isochrones with centerpoints at production facilities. Overlapping areas of lime and hemp isochrones we can describe as optimal for hempcrete constuction with minimal CO2 transport emissions.
+So, let's imagine that in order to mitigate CO2 logistic emissions for hempcrete we need to cover specific area with hemp and lime producing facilities. To analyze the current situation of the hempcrete industry we apply isochrones with centerpoints at production facilities. Resulting as dynamic maps the isochrones unveil areas of coverage area by car with 30, 60 and 120 min.  Overlapping areas of lime and hemp isochrones we can describe as optimal for hempcrete constuction with minimal CO2 transport emissions.
 
 ## data visualization
 ### Dynamic map showing 200-km isochrones around locations of hempcrete producers in Europe
 ![](visuals/hempsite_gif.gif)
 ### Dynamic map showing 200-km isochrones around locations of lime producers in Europe
-![](visuals/globe001.png)
+![](visuals/limesite_gif.gif)
 
 ## References
 
