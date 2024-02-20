@@ -23,8 +23,10 @@ So, let's imagine that in order to mitigate CO2 logistic emissions for hempcrete
 ![](visuals/all_overlaps.jpg)
 
 ## Grasshopper defintiions
-- creating isochrones [Grasshopper](visuals/def_hemp01.png)
-- creating overlapping maps [Grasshopper](visuals/def_hemp02.png)
+- creating isochrones [Grasshopper](Roman_submission_term1_CUD_02.gh)
+![](visuals/def_hemp01.png)
+- creating overlapping maps [Grasshopper](Roman_submission_term1_CUD_02_stage_2.gh)
+![](visuals/def_hemp02.png)
 
 ## References
 
